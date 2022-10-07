@@ -14,5 +14,5 @@
 ####11. Mean Absolute Percentage Error
 ####12. R2
 
-![img.png](img.png)
+![](Metric_Comparison.png)
 
